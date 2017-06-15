@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fizik Kiti</string>
+    <string name="action_share">Paylaş</string>
+    <string name="action_about">Haqqımızda</string>
+    <string name="exit">Çıxmaq üçün təkrar dokunun</string>
+    <string name="drawer_open">Sol menyu açıq</string>
+    <string name="drawer_close">Sol menyu qapalı</string>
+    <string name="stringbarometer">Hava təzyiqi:</string>
+    <string name="stringmagnetometer">Maqnetik ağı sıxlığı:</string>
+    <string name="stringluxmeter">İşıq sıxlığı:</string>
+    <string name="stringgravity">Cazibə:</string>
+    <string name="stringerror">Üzr istəyirik, cihazınızda maqnetik alan sensoru yoxdur!</string>
+    <string name="stringerrortitle">Səhv</string>
+    <string name="measurecount">Ölçüm sayısı</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Hava təzyiqi</item>
+        <item>Maqnetik ağı sıxlığı</item>
+        <item>İşıq sıxlığı</item>
+        <item>Cazibə</item>
+        <item>Haqqımızda</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Uygulamayı bal verin</item>
+        <item>Uygulamalarımız</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>Haqqımızda</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Bizimlə əlaqə</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software Android istifadəçiləri üçün keyfiyyətli oyun və tətbiqlər inkişaf etdirməyi hədəfləyən bir Indie Developer.</item>
+        <item>Facebook səhifəmizdən ən son məlumat və xəbərlərə çata bilərsiniz.</item>
+        <item>Twitter səhifəmizdən ən son məlumat və xəbərlərə çata bilərsiniz.</item>
+        <item>Bizimlə e-poçt vasitəsilə əlaqə saxlaya bilərsiniz. E-poçt atmaq üçün basın.</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Öğe ikonu</string>
+
+</resources>

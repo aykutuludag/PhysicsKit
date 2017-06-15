@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">μερίδιο</string>
+    <string name="action_about">σχετικά με εμάς</string>
+    <string name="exit">Παρακαλώ κάντε κλικ ξανά για να βγείτε</string>
+    <string name="drawer_open">Ολισθητήρας Πλοήγηση Άνοιξε</string>
+    <string name="drawer_close">Ολισθητήρας Πλοήγηση Έκλεισε</string>
+    <string name="stringbarometer">Η πίεση του αέρα:</string>
+    <string name="stringmagnetometer">Πυκνότητα μαγνητικής ροής:</string>
+    <string name="stringluxmeter">Η ένταση του φωτός:</string>
+    <string name="stringgravity">Βαρύτητα:</string>
+    <string name="stringerror">Δυστυχώς, δεν υπάρχει μαγνητικό πεδίο αισθητήρα στη συσκευή σας!</string>
+    <string name="stringerrortitle">σφάλμα</string>
+    <string name="measurecount">Αριθμός μετρήσεων</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Η πίεση του αέρα</item>
+        <item>Πυκνότητα μαγνητικής ροής</item>
+        <item>Η ένταση του φωτός</item>
+        <item>Βαρύτητα</item>
+        <item>σχετικά με εμάς</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Βαθμολογήστε αυτό</item>
+        <item>εφαρμογές μας</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>σχετικά με εμάς</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Επικοινωνήστε μαζί μας</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software Λογισμικό είναι μια Indie Developer. Στόχος μας είναι η ανάπτυξη ποιοτικών εφαρμογών και παιχνιδιών για τους χρήστες του Android.</item>
+        <item>Μπορείτε να δείτε τα τελευταία νέα και ενημερώσεις στο Facebook.</item>
+        <item>Μπορείτε να δείτε τα τελευταία νέα και ενημερώσεις στο Twitter.</item>
+        <item>Μπορείτε να επικοινωνήσετε μαζί μας μέσω e-mail. Κάντε κλικ εδώ για να στείλετε ένα e-mail!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Στοιχείο Εικόνα</string>
+
+</resources>

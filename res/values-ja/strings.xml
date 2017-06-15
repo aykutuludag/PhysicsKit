@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">シェア</string>
+    <string name="action_about">私たちに関しては</string>
+    <string name="exit">終了するにはもう一度クリックしてください</string>
+    <string name="drawer_open">スライダーメニューがオープン</string>
+    <string name="drawer_close">スライダーメニューは休館します</string>
+    <string name="stringbarometer">空気圧:</string>
+    <string name="stringmagnetometer">磁束密度:</string>
+    <string name="stringluxmeter">光強度:</string>
+    <string name="stringgravity">重力:</string>
+    <string name="stringerror">申し訳ありませんが、お使いのデバイスには磁界センサはありません！</string>
+    <string name="stringerrortitle">エラー</string>
+    <string name="measurecount">測定数</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>空気圧</item>
+        <item>磁束密度</item>
+        <item>光強度</item>
+        <item>重力</item>
+        <item>私たちに関しては</item>
+        <item>フェイスブック</item>
+        <item>ツイッター</item>
+        <item>それを評価</item>
+        <item>我々のアプリ</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>私たちに関しては</item>
+        <item>フェイスブック</item>
+        <item>ツイッター</item>
+        <item>Contact us</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U はソフトウェアは独立系開発会社開発元です。私たちの目的は、品質のアプリとAndroidユーザーのためのゲームを開発することです。</item>
+        <item>あなたは、Facebook上で最新のニュースや更新情報を表示することができます。</item>
+        <item>あなたはTwitterで最新のニュースや更新情報を表示することができます。</item>
+        <item>あなたは、電子メールによって私達に連絡することができます。電子メールを送信するには、ここをクリックしてください！</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">項目アイコン</string>
+
+</resources>

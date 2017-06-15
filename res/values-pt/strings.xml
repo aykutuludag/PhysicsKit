@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">Ação</string>
+    <string name="action_about">Sobre nós</string>
+    <string name="exit">Por favor, clique novamente para sair</string>
+    <string name="drawer_open">Menu deslizante, inaugurado</string>
+    <string name="drawer_close">Menu de Slider Fechado</string>
+    <string name="stringbarometer">Luchtdruk:</string>
+    <string name="stringmagnetometer">Densidade do fluxo magnético:</string>
+    <string name="stringluxmeter">A intensidade da luz:</string>
+    <string name="stringgravity">Gravidade:</string>
+    <string name="stringerror">Desculpe, não há nenhum sensor de campo magnético em seu dispositivo!</string>
+    <string name="stringerrortitle">Erro</string>
+    <string name="measurecount">Número de medições</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Luchtdruk</item>
+        <item>Densidade do fluxo magnético</item>
+        <item>A intensidade da luz</item>
+        <item>Gravidade</item>
+        <item>Sobre nós</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Classifique</item>
+        <item>Nossos aplicativos</item>
+    </string-array>
+
+   <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>Sobre nós</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Contate-nos</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software é uma Indie Developer. Nosso objetivo é desenvolver app qualidade e jogos para os usuários do Android.</item>
+        <item>Você pode ver as últimas notícias e atualizações no Facebook.</item>
+        <item>Você pode ver as últimas notícias e atualizações no Twitter.</item>
+        <item>Pode contactar-nos via e-mail. Clique aqui para enviar um e-mail!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Ícone Item</string>
+
+</resources>

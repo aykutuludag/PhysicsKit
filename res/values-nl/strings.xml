@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">Aandeel</string>
+    <string name="action_about">Over ons</string>
+    <string name="exit">Klik nogmaals terug om af te sluiten</string>
+    <string name="drawer_open">Slider Menu Geopend</string>
+    <string name="drawer_close">Slider Menu Gesloten</string>
+    <string name="stringbarometer">Luchtdruk:</string>
+    <string name="stringmagnetometer">Magnetische flux dichtheid:</string>
+    <string name="stringluxmeter">Lichtsterkte:</string>
+    <string name="stringgravity">Zwaartekracht:</string>
+    <string name="stringerror">Sorry, er is geen magnetisch veld sensor op uw apparaat!</string>
+    <string name="stringerrortitle">Fout</string>
+    <string name="measurecount">Aantal metingen</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Luchtdruk</item>
+        <item>Magnetische flux dichtheid</item>
+        <item>Lichtsterkte</item>
+        <item>Zwaartekracht</item>
+        <item>Over ons</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Beoordeel het</item>
+        <item>Onze apps</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>Over ons</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Contacteer ons</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software is een Indie Developer. Ons doel is om de kwaliteit app en games voor Android-gebruikers te ontwikkelen.</item>
+        <item>U kunt het laatste nieuws en updates op Facebook te zien.</item>
+        <item>U kunt het laatste nieuws en updates op Twitter te zien.</item>
+        <item>U kunt contact met ons opnemen via e-mail. Klik hier om een e-mail te sturen!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icoon</string>
+
+</resources>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">Aktie</string>
+    <string name="action_about">Über uns</string>
+    <string name="exit">Bitte klicken Sie wieder zu verlassen</string>
+    <string name="drawer_open">Slider Menu Eröffnet</string>
+    <string name="drawer_close">Slider-Menü geschlossen</string>
+    <string name="stringbarometer">Luftdruck:</string>
+    <string name="stringmagnetometer">Magnetflussdichte:</string>
+    <string name="stringluxmeter">Lichtstärke:</string>
+    <string name="stringgravity">Gravity:</string>
+    <string name="stringerror">Sorry, es gibt keine Magnetfeldsensor auf Ihrem Gerät!</string>
+    <string name="stringerrortitle">Fehler</string>
+    <string name="measurecount">Anzahl der Mess</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Luftdruck</item>
+        <item>Magnetflussdichte</item>
+        <item>Lichtstärke</item>
+        <item>Gravity</item>
+        <item>Über uns</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Bewerte es</item>
+        <item>Unsere Anwendungen</item>
+    </string-array>
+
+   <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>Über uns</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Kontaktieren Sie uns</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software ist eine Indie Entwickler. Unser Ziel ist, Qualitäts App und Spiele für Android-Nutzer zu entwickeln.</item>
+        <item>Sie können aktuelle Nachrichten und Updates auf Facebook zu sehen.</item>
+        <item>Sie können aktuelle Nachrichten und Updates auf Twitter sehen.</item>
+        <item>Sie können uns über E-Mail kontaktieren. Klicken Sie hier, um eine E-Mail senden!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Artikel-Icon</string>
+
+</resources>

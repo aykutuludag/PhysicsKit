@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">Quota</string>
+    <string name="action_about">Riguardo a noi</string>
+    <string name="exit">Cliccate di nuovo per uscire</string>
+    <string name="drawer_open">Slider Menu Aperto</string>
+    <string name="drawer_close">Slider Menu Chiuso</string>
+    <string name="stringbarometer">Pressione dell\'aria:</string>
+    <string name="stringmagnetometer">Induzione magnetica:</string>
+    <string name="stringluxmeter">L\'intensità della luce:</string>
+    <string name="stringgravity">Gravità:</string>
+    <string name="stringerror">Spiacente, non vi è alcun sensore di campo magnetico sul tuo dispositivo!</string>
+    <string name="stringerrortitle">Errore</string>
+    <string name="measurecount">Numero di misura</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Pressione dell\'aria</item>
+        <item>Induzione magnetica</item>
+        <item>L\'intensità della luce</item>
+        <item>Gravità</item>
+        <item>Riguardo a noi</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Vota</item>
+        <item>Le nostre applicazioni</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>Riguardo a noi</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Contattaci</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software è uno sviluppatore Indie. Il nostro obiettivo è quello di sviluppare app qualità e giochi per gli utenti Android.</item>
+        <item>Potete vedere ultime notizie e gli aggiornamenti su Facebook.</item>
+        <item>Potete vedere ultime notizie e gli aggiornamenti su Twitter.</item>
+        <item>Potete contattarci via e-mail. Clicca qui per inviare una e-mail!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Icona Voce</string>
+
+</resources>

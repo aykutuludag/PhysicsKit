@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">Cuota</string>
+    <string name="action_about">Sobre nosotros</string>
+    <string name="exit">Por favor, haga clic de nuevo para salir</string>
+    <string name="drawer_open">Deslizante Menú Inaugurado</string>
+    <string name="drawer_close">Deslizante Menú Cerrado</string>
+    <string name="stringbarometer">Presión del aire:</string>
+    <string name="stringmagnetometer">Densidad de flujo magnético:</string>
+    <string name="stringluxmeter">Intensidad de luz:</string>
+    <string name="stringgravity">Gravedad:</string>
+    <string name="stringerror">Lo sentimos, no hay sensor de campo magnético en su dispositivo!</string>
+    <string name="stringerrortitle">Error</string>
+    <string name="measurecount">Número de medición</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Presión del aire</item>
+        <item>Densidad de flujo magnético</item>
+        <item>Intensidad de luz</item>
+        <item>Gravedad</item>
+        <item>Sobre nosotros</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Puntúalo</item>
+        <item>Nuestras aplicaciones</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>Sobre nosotros</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Contáctenos</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software es un desarrollador independiente. Nuestro objetivo es el desarrollo de aplicaciones y juegos para los usuarios de Android calidad.</item>
+        <item>Usted puede ver novedades y actualizaciones en Facebook.</item>
+        <item>Usted puede ver novedades y actualizaciones en Twitter.</item>
+        <item>Puede ponerse en contacto con nosotros a través de correo electrónico. Haga clic aquí para enviar un e-mail!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Icono Elemento</string>
+
+</resources>

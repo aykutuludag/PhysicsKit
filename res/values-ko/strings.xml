@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">몫</string>
+    <string name="action_about">회사 소개</string>
+    <string name="exit">종료하려면 다시 클릭하세요</string>
+    <string name="drawer_open">슬라이더 메뉴 개설</string>
+    <string name="drawer_close">슬라이더 메뉴 폐쇄</string>
+    <string name="stringbarometer">공기 압력:</string>
+    <string name="stringmagnetometer">자속 밀도:</string>
+    <string name="stringluxmeter">광도:</string>
+    <string name="stringgravity">중량:</string>
+    <string name="stringerror">죄송합니다, 귀하의 장치에 자기장 센서가 없습니다!</string>
+    <string name="stringerrortitle">오류</string>
+    <string name="measurecount">측정의 수</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>공기 압력</item>
+        <item>자속 밀도</item>
+        <item>광도</item>
+        <item>중량</item>
+        <item>회사 소개</item>
+        <item>페이스 북</item>
+        <item>지저귐</item>
+        <item>평점</item>
+        <item>우리의 애플 리케이션</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>회사 소개</item>
+        <item>페이스 북</item>
+        <item>지저귐</item>
+        <item>저희에게 연락하십시오</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U 소프트웨어는 인디 개발자입니다. 우리의 목표는 양질의 앱과 안드로이드 사용자를위한 게임을 개발하는 것입니다.</item>
+        <item>당신은 페이스 북에서 최신 뉴스와 업데이트를 볼 수 있습니다.</item>
+        <item>당신은 트위터에 최신 뉴스 및 업데이트를 볼 수 있습니다.</item>
+        <item>당신은 이메일을 통해 문의하실 수 있습니다. 전자 메일을 보내려면 여기를 클릭!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">항목 아이콘</string>
+
+</resources>

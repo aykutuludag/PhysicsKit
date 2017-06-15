@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Physics Kit</string>
+    <string name="action_share">Share</string>
+    <string name="action_about">About us</string>
+    <string name="exit">Please click back again to exit</string>
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+    <string name="stringbarometer">Air pressure:</string>
+    <string name="stringmagnetometer">Magnetic flux density:</string>
+    <string name="stringluxmeter">Light intensity:</string>
+    <string name="stringgravity">Gravity:</string>
+    <string name="stringerror">Sorry, there is no related sensor on your device!</string>
+    <string name="stringerrortitle">Error</string>
+    <string name="measurecount">Number of measurement</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item>Air pressure</item>
+        <item>Magnetic flux density</item>
+        <item>Light intensity</item>
+        <item>Gravity</item>
+        <item>About us</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Rate it</item>
+        <item>Our apps</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ic_home</item>
+        <item>@drawable/ic_home2</item>
+        <item>@drawable/ic_home3</item>
+        <item>@drawable/ic_home4</item>
+        <item>@drawable/ic_about</item>
+        <item>@drawable/ic_facebook</item>
+        <item>@drawable/ic_twitter</item>
+        <item>@drawable/ic_rate</item>
+        <item>@drawable/ic_market</item>
+    </array>
+
+    <string-array name="array1">
+        <item>About us</item>
+        <item>Facebook</item>
+        <item>Twitter</item>
+        <item>Contact us</item>
+    </string-array>
+    <string-array name="array2">
+        <item>U&amp;U Software is an Indie Developer. Our aim is to develop quality app and games for Android users.</item>
+        <item>You can see latest news and updates on Facebook.</item>
+        <item>You can see latest news and updates on Twitter.</item>
+        <item>You can contact us via email. Click here to send an e-mail!</item>
+    </string-array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+
+</resources>
